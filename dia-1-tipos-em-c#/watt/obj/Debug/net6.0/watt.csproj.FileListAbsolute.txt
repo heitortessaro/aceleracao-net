@@ -1,0 +1,15 @@
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/bin/Debug/net6.0/watt
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/bin/Debug/net6.0/watt.deps.json
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/bin/Debug/net6.0/watt.runtimeconfig.json
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/bin/Debug/net6.0/watt.dll
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/bin/Debug/net6.0/watt.pdb
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.csproj.AssemblyReference.cache
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.GeneratedMSBuildEditorConfig.editorconfig
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.AssemblyInfoInputs.cache
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.AssemblyInfo.cs
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.csproj.CoreCompileInputs.cache
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.dll
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/refint/watt.dll
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.pdb
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/watt.genruntimeconfig.cache
+/home/heitortessaro/trybe/aceleracao/mateial/dia-1-tipos-em-c#/watt/obj/Debug/net6.0/ref/watt.dll
